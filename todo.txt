@@ -1,2 +1,2 @@
 1. Complete Agile Lab
-2. Practice GitHub
+2. Practice GitHub -- done
